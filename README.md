@@ -5,7 +5,4 @@ Command for run
 
 ```bash ~/Desktop/FromPKGToIso.sh```  
 
-**Download link if u cann`t download in GitHub**  
-https://www.dropbox.com/scl/fi/55pbjaf80ibnifmitb81c/FromPKGToIso.sh?rlkey=2os0cqgl4fttt21d9m6b1ni96&st=3td0tsum&dl=1  
-
-
+[**Download link if u cann`t download in GitHub** ](https://www.dropbox.com/scl/fi/kvv5fqodeq41w540yudr8/FromPKGToIso.sh?rlkey=psncqb6g6p5fybkgo0394dlq6&st=phtlwe1m&dl=1)
